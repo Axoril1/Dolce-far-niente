@@ -9,7 +9,7 @@
 
 <img align="right" alt="Coding illustration" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-### About Me
+About Me
 - 🎓 Undergraduate student at CUET CSE  
 - 🌱 Currently learning: Machine Learning and Data Structures & Algorithms  
 - 💡 Interests: Competitive Programming, ML, Systems, and clean code  
