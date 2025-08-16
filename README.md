@@ -42,7 +42,7 @@ About Me
 
 <h3 align="left">Tech Stack</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,git,github,vscode" alt="tech stack"/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,flutter,dart,html,css,git,github,vscode" alt="tech stack"/>
 </p>
 
 <h3 align="left">GitHub Stats</h3>
